@@ -5,8 +5,8 @@ body {
 margin: 0 auto;}
 .portrait {
 	width: 30%;
-	float:left;
-	padding-right: 10px;
+	float:right;
+	padding-left: 10px;
 }
 .strike {
 	text-decoration: line-through
