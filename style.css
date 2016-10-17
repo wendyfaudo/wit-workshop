@@ -1,8 +1,9 @@
 body {
 	color: #cccccc;
 	font-family: 'Quicksand', sans-serif;
-	width: 1400px;}
+	width: 1024px;
+margin: 0 auto;}
 .portrait {
-	width: 50%;
+	width: 30%;
 	float:left;
 }
