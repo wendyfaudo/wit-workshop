@@ -8,3 +8,6 @@ margin: 0 auto;}
 	float:left;
 	padding-right: 10px;
 }
+.strike {
+	text-decoration: line-through
+}
